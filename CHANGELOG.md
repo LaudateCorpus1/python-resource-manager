@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-resource-manager/#history
 
+## [1.4.0](https://github.com/googleapis/python-resource-manager/compare/v1.3.3...v1.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#154](https://github.com/googleapis/python-resource-manager/issues/154)) ([6d8c5bd](https://github.com/googleapis/python-resource-manager/commit/6d8c5bd867af5cfd6939373388769b57203a1138))
+
 ### [1.3.3](https://www.github.com/googleapis/python-resource-manager/compare/v1.3.2...v1.3.3) (2021-11-13)
 
 
